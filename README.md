@@ -8,16 +8,16 @@ Böylece atanan ram miktarı ve port bilgisi değişmez. Port bilgisi zaten sist
 İki seçenek arasında kolaylık ve güvenlik analizi gerekir.
 
 # Yol haritası
-[] Temel systemd servisi.
-[] Sunucu durumları ve planları için sql veritabanı.
-[] Aynı ağ arayüzünde birden fazla hizmetin sunulabilmesi için otomatik port ataması.
-[] Ogarson servisi ile DNS ( BIND ) kontrolü, ondemand SRV ve A kayıtları.
-[] EULA onayının kullanıcı tercihine sunulması.
-[] Minecraft sunucusu sağlayabilir.
-[] Kullanıcı web arayüzü
-[] Yönetim web arayüzü
-[] Whmcs gibi paneller ile otomatik kurulum ve yönetim için API
-[] Kullanıcı bazlı RAM limiti
-[] Kullanıcı bazlı soft cpu limiti
-...
-[] Diğer oyun sunucularını sağlayabilir.
+- [ ] Temel systemd servisi.
+- [ ] Sunucu durumları ve planları için sql veritabanı.
+- [ ] Aynı ağ arayüzünde birden fazla hizmetin sunulabilmesi için otomatik port ataması.
+- [ ] Ogarson servisi ile DNS ( BIND ) kontrolü, ondemand SRV ve A kayıtları.
+- [ ] EULA onayının kullanıcı tercihine sunulması.
+- [ ] Minecraft sunucusu sağlayabilir.
+- [ ] Kullanıcı web arayüzü
+- [ ] Yönetim web arayüzü
+- [ ] Whmcs gibi paneller ile otomatik kurulum ve yönetim için API
+- [ ] Kullanıcı bazlı RAM limiti
+- [ ] Kullanıcı bazlı soft cpu limiti
+- ...
+- [ ] Diğer oyun sunucularını sağlayabilir.
